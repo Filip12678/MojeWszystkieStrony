@@ -22,6 +22,6 @@ function myFunction1() {
     window.open("https://filip12678.github.io/Notatki_Z_Pastebina/");
   }
 
-  function myFunction6() {
+  function myFunction7() {
     window.open("https://filip12678.github.io/obliczanieLogarytmu/");
   }
