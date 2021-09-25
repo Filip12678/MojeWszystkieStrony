@@ -29,3 +29,7 @@ function myFunction1() {
   function myFunction8() {
     window.open("https://filip12678.github.io/MojeProgramyDoPobrania/");
   }
+
+  function myFunction8() {
+    window.open("https://filip12678.github.io/stronaDoObliczaniaSredniej/");
+  }
