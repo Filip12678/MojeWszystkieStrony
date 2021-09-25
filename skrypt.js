@@ -30,6 +30,6 @@ function myFunction1() {
     window.open("https://filip12678.github.io/MojeProgramyDoPobrania/");
   }
 
-  function myFunction8() {
+  function myFunction9() {
     window.open("https://filip12678.github.io/stronaDoObliczaniaSredniej/");
   }
