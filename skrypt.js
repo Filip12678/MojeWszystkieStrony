@@ -25,3 +25,7 @@ function myFunction1() {
   function myFunction7() {
     window.open("https://filip12678.github.io/obliczanieLogarytmu/");
   }
+
+  function myFunction8() {
+    window.open("https://filip12678.github.io/MojeProgramyDoPobrania/");
+  }
