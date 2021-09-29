@@ -33,6 +33,7 @@ function myFunction1() {
   function myFunction9() {
     window.open("https://filip12678.github.io/stronaDoObliczaniaSredniej/");
   }
+
   function myFunction10() {
     window.open("https://filip12678.github.io/obliczanieBolusa_I_DopasowywaniePrzelicznikaNaPodstawieAktualnejGodziny/");
   }
