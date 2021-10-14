@@ -41,3 +41,7 @@ function myFunction1() {
   function myFunction11() {
     window.open("https://filip12678.github.io/kalkulatorProsty/");
   }
+
+  function myFunction12() {
+    window.open("https://filip12678.github.io/kalkulatorProsty/");
+  }
