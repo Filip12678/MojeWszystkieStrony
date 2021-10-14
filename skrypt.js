@@ -38,6 +38,6 @@ function myFunction1() {
     window.open("https://filip12678.github.io/obliczanieBolusa_I_DopasowywaniePrzelicznikaNaPodstawieAktualnejGodziny/");
   }
 
-  function myFunction10() {
+  function myFunction11() {
     window.open("https://filip12678.github.io/kalkulator-prosty/");
   }
