@@ -39,5 +39,5 @@ function myFunction1() {
   }
 
   function myFunction11() {
-    window.open("https://filip12678.github.io/kalkulator-prosty/");
+    window.open("https://filip12678.github.io/kalkulatorProsty/");
   }
