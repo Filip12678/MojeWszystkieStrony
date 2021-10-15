@@ -45,3 +45,7 @@ function myFunction1() {
   function myFunction12() {
     window.open("https://filip12678.github.io/przelicznikTemperatur/");
   }
+
+  function myFunction13() {
+    window.open("https://filip12678.github.io/odliczanieDoZakonczeniaRokuSzkolnego/");
+  }
