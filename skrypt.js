@@ -49,3 +49,7 @@ function myFunction1() {
   function myFunction13() {
     window.open("https://filip12678.github.io/odliczanieDoZakonczeniaRokuSzkolnego/");
   }
+
+  function myFunction14() {
+    window.open("https://filip12678.github.io/strona_O_AlgorytmieLuhna/");
+  }
