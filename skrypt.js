@@ -53,3 +53,7 @@ function myFunction1() {
   function myFunction14() {
     window.open("https://filip12678.github.io/strona_O_AlgorytmieLuhna/");
   }
+
+  function myFunction15() {
+    window.open("https://filip12678.github.io/odliczanieDoKoncaLekcji/");
+  }
