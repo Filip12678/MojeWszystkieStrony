@@ -57,3 +57,7 @@ function myFunction1() {
   function myFunction15() {
     window.open("https://filip12678.github.io/odliczanieDoKoncaLekcji/");
   }
+
+  function myFunction16() {
+    window.open("https://filip12678.github.io/Strona_O_SzyfrzeCezara/");
+  }
