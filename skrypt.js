@@ -61,3 +61,7 @@ function myFunction1() {
   function myFunction16() {
     window.open("https://filip12678.github.io/Strona_O_SzyfrzeCezara/");
   }
+
+  function myFunction17() {
+    window.open("https://filip12678.github.io/obliczanieAktualnejFazyKsiezyca/");
+  }
