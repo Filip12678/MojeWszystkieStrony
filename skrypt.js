@@ -65,3 +65,7 @@ function myFunction1() {
   function myFunction17() {
     window.open("https://filip12678.github.io/obliczanieAktualnejFazyKsiezyca/");
   }
+
+  function myFunction18() {
+    window.open("https://filip12678.github.io/pobranieProgramuAnimowanyPrzycisk/");
+  }
