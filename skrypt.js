@@ -69,3 +69,7 @@ function myFunction1() {
   function myFunction18() {
     window.open("https://filip12678.github.io/pobranieProgramuAnimowanyPrzycisk/");
   }
+
+  function myFunction18() {
+    window.open("https://filip12678.github.io/obliczanieFazyKsiezyca2Sposob/");
+  }
