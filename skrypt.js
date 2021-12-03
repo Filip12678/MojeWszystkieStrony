@@ -73,3 +73,7 @@ function myFunction1() {
   function myFunction19() {
     window.open("https://filip12678.github.io/obliczanieFazyKsiezyca2Sposob/");
   }
+
+  function myFunction20() {
+    window.open("https://filip12678.github.io/konwersjaLiczb_Z_OkresemNaUlamekZwykly/");
+  }
