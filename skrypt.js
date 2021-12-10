@@ -78,6 +78,6 @@ function myFunction1() {
     window.open("https://filip12678.github.io/konwersjaLiczb_Z_OkresemNaUlamekZwykly/");
   }
 
-  function myFunction20() {
+  function myFunction21() {
     window.open("https://filip12678.github.io/obliczanieDatyUrodzenia_Z_PESELU/");
   }
