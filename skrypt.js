@@ -81,3 +81,7 @@ function myFunction1() {
   function myFunction21() {
     window.open("https://filip12678.github.io/obliczanieDatyUrodzenia_Z_PESELU/");
   }
+
+  function myFunction21() {
+    window.open("https://filip12678.github.io/przelicznikJednostekKatowych/");
+  }
