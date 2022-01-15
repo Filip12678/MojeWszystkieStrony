@@ -85,3 +85,7 @@ function myFunction1() {
   function myFunction22() {
     window.open("https://filip12678.github.io/przelicznikJednostekKatowych/");
   }
+
+  function myFunction22() {
+    window.open("https://stronazmozliwosciawpisaniasie.000webhostapp.com/");
+  }
