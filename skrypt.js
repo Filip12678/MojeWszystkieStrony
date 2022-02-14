@@ -90,6 +90,6 @@ function myFunction1() {
     window.open("https://stronazmozliwosciawpisaniasie.000webhostapp.com/");
   }
 
-  function myFunction23() {
+  function myFunction24() {
     window.open("https://filip12678.github.io/strona_Z_PlanemLekcji/");
   }
