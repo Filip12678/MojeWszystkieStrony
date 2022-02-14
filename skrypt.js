@@ -89,3 +89,7 @@ function myFunction1() {
   function myFunction23() {
     window.open("https://stronazmozliwosciawpisaniasie.000webhostapp.com/");
   }
+
+  function myFunction23() {
+    window.open("https://filip12678.github.io/strona_Z_PlanemLekcji/");
+  }
