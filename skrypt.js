@@ -93,3 +93,7 @@ function myFunction1() {
   function myFunction24() {
     window.open("https://filip12678.github.io/strona_Z_PlanemLekcji/");
   }
+
+  function myFunction25() {
+    window.open("https://filip12678.github.io/stronaDoSprawdzaniaKosztuSMS_Premium/");
+  }
