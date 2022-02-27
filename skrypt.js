@@ -97,3 +97,11 @@ function myFunction1() {
   function myFunction25() {
     window.open("https://filip12678.github.io/stronaDoSprawdzaniaKosztuSMS_Premium/");
   }
+
+  function myFunction26() {
+    window.open("https://filip12678.github.io/rozkladLiczbNaCzynnikiPierwsze/");
+  }
+
+  function myFunction27() {
+    window.open("https://filip12678.github.io/tabliceTrygonometryczne/");
+  }
