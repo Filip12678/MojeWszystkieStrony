@@ -105,3 +105,7 @@ function myFunction1() {
   function myFunction27() {
     window.open("https://filip12678.github.io/tabliceTrygonometryczne/");
   }
+
+  function myFunction28() {
+    window.open("https://filip12678.github.io/obliczanieWyznacznikaMacierzy/");
+  }
