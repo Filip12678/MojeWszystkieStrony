@@ -109,3 +109,7 @@ function myFunction1() {
   function myFunction28() {
     window.open("https://filip12678.github.io/obliczanieWyznacznikaMacierzy/");
   }
+
+  function myFunction29() {
+    window.open("https://filip12678.github.io/stronaDoOdczytuPlikow/");
+  }
