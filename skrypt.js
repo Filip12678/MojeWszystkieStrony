@@ -113,3 +113,7 @@ function myFunction1() {
   function myFunction29() {
     window.open("https://filip12678.github.io/stronaDoOdczytuPlikow/");
   }
+
+  function myFunction30() {
+    window.open("https://filip12678.github.io/zamianaJednostekPredkosci/");
+  }
