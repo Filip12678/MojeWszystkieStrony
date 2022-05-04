@@ -117,3 +117,7 @@ function myFunction1() {
   function myFunction30() {
     window.open("https://filip12678.github.io/zamianaJednostekPredkosci/");
   }
+
+  function myFunction31() {
+    window.open("https://filip12678.github.io/liczbaNaSlowaPoPolsku/");
+  }
