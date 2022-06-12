@@ -121,3 +121,7 @@ function myFunction1() {
   function myFunction31() {
     window.open("https://filip12678.github.io/liczbaNaSlowaPoPolsku/");
   }
+
+  function myFunction31() {
+    window.open("https://filip12678.github.io/stronaDoZnajdowaniaOkresuLiczby/");
+  }
