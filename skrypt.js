@@ -122,6 +122,6 @@ function myFunction1() {
     window.open("https://filip12678.github.io/liczbaNaSlowaPoPolsku/");
   }
 
-  function myFunction31() {
+  function myFunction32() {
     window.open("https://filip12678.github.io/stronaDoZnajdowaniaOkresuLiczby/");
   }
