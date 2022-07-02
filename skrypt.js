@@ -130,3 +130,11 @@ function myFunction1() {
   function myFunction33() {
     window.open("https://filip12678.github.io/obliczaniePotegiLiczbyZespolonej/");
   }
+
+  function myFunction34() {
+    window.open("https://filip12678.github.io/obliczanieIlosciCzasuPomiedzyDatami/");
+  }
+
+  function myFunction35() {
+    window.open("https://filip12678.github.io/rozwiazywanieRownan/");
+  }
