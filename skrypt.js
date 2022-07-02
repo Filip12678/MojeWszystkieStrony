@@ -125,3 +125,8 @@ function myFunction1() {
   function myFunction32() {
     window.open("https://filip12678.github.io/stronaDoZnajdowaniaOkresuLiczby/");
   }
+
+
+  function myFunction33() {
+    window.open("https://filip12678.github.io/obliczaniePotegiLiczbyZespolonej/");
+  }
