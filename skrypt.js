@@ -138,3 +138,7 @@ function myFunction1() {
   function myFunction35() {
     window.open("https://filip12678.github.io/rozwiazywanieRownan/");
   }
+
+  function myFunction36() {
+    window.open("https://filip12678.github.io/stronaDoRozwiazywaniaProporcji/");
+  }
