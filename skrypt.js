@@ -142,3 +142,7 @@ function myFunction1() {
   function myFunction36() {
     window.open("https://filip12678.github.io/stronaDoRozwiazywaniaProporcji/");
   }
+
+  function myFunction37() {
+    window.open("https://filip12678.github.io/stronaDoKonwersjiPomiedzySystemamiLiczbowymi/");
+  }
