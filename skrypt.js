@@ -146,3 +146,7 @@ function myFunction1() {
   function myFunction37() {
     window.open("https://filip12678.github.io/stronaDoKonwersjiPomiedzySystemamiLiczbowymi/");
   }
+  
+  function myFunction38() {
+    window.open("https://filip12678.github.io/stronaDoPrzesuwaniaPrzecinka");
+  }
